@@ -11,6 +11,14 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'images.pexels.com',
       },
+      {
+        protocol: 'https',
+        hostname: 'static.tildacdn.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'img.inmyroom.ru',
+      },
     ],
   },
 };
