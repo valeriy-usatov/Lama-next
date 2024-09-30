@@ -7,6 +7,10 @@ const nextConfig = {
         hostname: 'avatars.mds.yandex.net',
         port: '',
       },
+      {
+        protocol: 'https',
+        hostname: 'images.pexels.com',
+      },
     ],
   },
 };
