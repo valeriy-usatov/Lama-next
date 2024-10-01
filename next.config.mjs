@@ -19,6 +19,14 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'img.inmyroom.ru',
       },
+      {
+        protocol: 'https',
+        hostname: 'cdn.culture.ru',
+      },
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+      },
     ],
   },
 };
